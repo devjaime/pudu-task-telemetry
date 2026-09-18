@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Local models",
+      "description": "Measure and compare bounded local AI tasks.",
+      "skills": ["pudu-task-telemetry"]
+    }
+  ]
+}
